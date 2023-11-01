@@ -1,0 +1,7 @@
+{
+  "name": "esb-smart-reader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
